@@ -1,4 +1,4 @@
-# Cloud & IA Accelerator — par SoftlyStack
+# Cloud & IA Accelerator — par Softlydev
 
 Programme de 12 semaines, 100 % en ligne et en français, pour passer de profil IT classique à **Cloud & IA Engineer** : 8 modules, environ 40 leçons, 4 projets réels déployés sur Microsoft Azure.
 
