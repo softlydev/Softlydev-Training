@@ -36,4 +36,4 @@ Programme de 12 semaines, 100 % en ligne et en français, pour passer de profil 
 
 ## Droits
 
-© 2026 SoftlyStack. Tous droits réservés. Les vidéos et ressources externes citées appartiennent à leurs auteurs : elles sont recommandées par lien, jamais réhébergées.
+© 2026 Softlydev. Tous droits réservés. Les vidéos et ressources externes citées appartiennent à leurs auteurs : elles sont recommandées par lien, jamais réhébergées.
